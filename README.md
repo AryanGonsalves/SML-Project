@@ -1,4 +1,4 @@
-# Air Passenger Traffic Forecasting at SFO  — Fall 2024
+# Air Passenger Traffic Forecasting at SFO  
 
 Forecasting air passenger traffic at **San Francisco International Airport (SFO)** using **multivariate time series** built from throughput + weather features.
 
